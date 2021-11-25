@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "114c050a-b3a0-4274-b97d-7cc5d954e72a": {
+      "ProjectGuid": "114c050a-b3a0-4274-b97d-7cc5d954e72a",
+      "DisplayName": "Fidget",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
