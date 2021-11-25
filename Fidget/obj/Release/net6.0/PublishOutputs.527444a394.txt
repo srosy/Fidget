@@ -1,0 +1,8 @@
+C:\Users\spencer.rosenvall\Downloads\test\Fidget.exe
+C:\Users\spencer.rosenvall\Downloads\test\Fidget.dll
+C:\Users\spencer.rosenvall\Downloads\test\Fidget.deps.json
+C:\Users\spencer.rosenvall\Downloads\test\Fidget.runtimeconfig.json
+C:\Users\spencer.rosenvall\Downloads\test\Fidget.pdb
+C:\Users\spencer.rosenvall\Downloads\test\System.CodeDom.dll
+C:\Users\spencer.rosenvall\Downloads\test\System.Management.dll
+C:\Users\spencer.rosenvall\Downloads\test\runtimes\win\lib\net6.0\System.Management.dll
