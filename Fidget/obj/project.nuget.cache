@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Pyt60SBpTVvrycW+ITfBVQUScVK+fNwoMpKvEKBPwnepIrSm3s3JfEFB7S7hXCiJMYH7JMcp/9//q+7Y4yiPiA==",
+  "dgSpecHash": "rnaaYmeCXRkMYRYmE79KcLrkXGqYMm+X0/Ff4mr1rWV5VfQ4asOejX7LiCiG4Pck2QU5DCytY1SJI52seRdQhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\spencer.rosenvall\\source\\repos\\Fidget\\Fidget.csproj",
+  "projectFilePath": "E:\\Programming\\Fidget\\Fidget\\Fidget.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\spencer.rosenvall\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
-    "C:\\Users\\spencer.rosenvall\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+    "C:\\Users\\seros\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\seros\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

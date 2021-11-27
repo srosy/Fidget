@@ -96,24 +96,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\spencer.rosenvall\\.nuget\\packages\\": {},
+    "C:\\Users\\seros\\.nuget\\packages\\": {},
+    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\spencer.rosenvall\\source\\repos\\Fidget\\Fidget.csproj",
+      "projectUniqueName": "E:\\Programming\\Fidget\\Fidget\\Fidget.csproj",
       "projectName": "Fidget",
-      "projectPath": "C:\\Users\\spencer.rosenvall\\source\\repos\\Fidget\\Fidget.csproj",
-      "packagesPath": "C:\\Users\\spencer.rosenvall\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\spencer.rosenvall\\source\\repos\\Fidget\\obj\\",
+      "projectPath": "E:\\Programming\\Fidget\\Fidget\\Fidget.csproj",
+      "packagesPath": "C:\\Users\\seros\\.nuget\\packages\\",
+      "outputPath": "E:\\Programming\\Fidget\\Fidget\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\spencer.rosenvall\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\seros\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
