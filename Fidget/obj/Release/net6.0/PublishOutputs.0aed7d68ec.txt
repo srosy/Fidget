@@ -1,0 +1,8 @@
+C:\Users\seros\Downloads\Fidget\Fidget.exe
+C:\Users\seros\Downloads\Fidget\Fidget.dll
+C:\Users\seros\Downloads\Fidget\Fidget.deps.json
+C:\Users\seros\Downloads\Fidget\Fidget.runtimeconfig.json
+C:\Users\seros\Downloads\Fidget\Fidget.pdb
+C:\Users\seros\Downloads\Fidget\System.CodeDom.dll
+C:\Users\seros\Downloads\Fidget\System.Management.dll
+C:\Users\seros\Downloads\Fidget\runtimes\win\lib\net6.0\System.Management.dll
